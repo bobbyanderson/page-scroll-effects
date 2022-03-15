@@ -18,7 +18,8 @@
 }
 .cd-section:nth-of-type(6) > div {
   background-color: #f06a59;
-[data-animation="opacity"] .cd-section > div {
+  
+[data-animation="parallax"] .cd-section > div {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
