@@ -25,6 +25,7 @@
 }
 [data-animation="parallax"] .cd-section:first-of-type > div {
   background-image: url("https://images.squarespace-cdn.com/content/v1/5f4397d08824281c596b53af/89dcf93d-7dd4-412e-8716-0538bd8b86f9/slide-1.png");
+  background-color:#FFF;
 }
 [data-animation="parallax"] .cd-section:nth-of-type(2) > div {
   background-image: url("https://images.squarespace-cdn.com/content/v1/5f4397d08824281c596b53af/74d6e678-5f9b-48e7-beea-d6f6e2fd40bd/slide-2.png");
